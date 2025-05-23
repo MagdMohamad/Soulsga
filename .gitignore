@@ -54,3 +54,8 @@ sysinfo.txt
 *.jar
 *.keystore
 build/
+
+# ========== KEEP Unity Folders ==========
+!Assets/
+!ProjectSettings/
+!Packages/
